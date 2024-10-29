@@ -1,3 +1,5 @@
+# 练习 ! 练习 ! 练习 ! 做海量的练习, 否则你无法深刻理解那些定理, 概念, 更无法熟练应用它们来解决新问题
+
 Learning mathematical analysis is a rewarding journey, as it forms the foundation for advanced mathematics, including calculus, real analysis, and functional analysis. Here’s a structured approach along with some recommended textbooks and resources:
 
 ### 1. **Begin with the Basics of Calculus and Proofs**
